@@ -3,6 +3,10 @@
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://digitalzombie.github.io/github-games/
+Controls:
+    Left arrow  -> rotate counter clockwise
+    Right arrow -> rotate clockwise
+    Down        -> drop piece faster
 
 Here is how you play the game:
 1. Press the space bar to get started.
